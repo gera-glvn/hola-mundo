@@ -1,3 +1,5 @@
-# hola-mundo
+# Hola Mundo
 
-mi primer repositorio
+Mi primer repositorio
+
+Autor: Gerardo Galvan
